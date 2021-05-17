@@ -12,6 +12,7 @@ jobs:
     
     - name: Install and Build
       run: |
+        cd github-actions-demo
         npm install
         npm build
 
