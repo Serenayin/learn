@@ -21,6 +21,7 @@ jobs:
       with:
         branch: gh-pages
         folder: github-actions-demo/build
+        target-folder: github-actions-demo
         token: ${{ secrets.ACCESS_TOKEN }}
       #env:
         #ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
