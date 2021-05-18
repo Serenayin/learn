@@ -1,6 +1,6 @@
 # New Starter
 ## GitHub Actions
-### Demo of REACT APP
+### [Demo of REACT APP](/github-actions-demo/index.html)
 
 action of checkout will make a copy of project in the root(which will make the path to something like /home/user/repo/repo/...
 
