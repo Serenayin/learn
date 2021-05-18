@@ -2,7 +2,7 @@
 ## GitHub Actions
 ### <a href="https://Serenayin.github.io/learn/github-actions-demo/index.html" title="Demo of REACT APP">Demo of REACT APP</a>
 
-action of checkout will make a copy of project in the root(which will make the path to something like /home/user/repo/repo/...
+action of checkout will make a copy of repo in the github workspace directory path(which will make the path to something like /home/runner/work/repo/repo/... by default)[https://github.community/t/paths-and-environment-variables-in-artifact-paths/16944](https://github.community/t/paths-and-environment-variables-in-artifact-paths/16944)
 
 ### sub-project key point
 
