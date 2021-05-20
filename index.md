@@ -16,3 +16,5 @@ $ smee -u https://smee.io/wSIFtllnAJ1nToM7 --path /events
 
 Forwarding https://smee.io/wSIFtllnAJ1nToM7 to http://127.0.0.1:3000/events
 
+### bundler
+check BUNDLED_WITH version in Gemfile.lock, otherwise Error may raise because of version mismatch.
