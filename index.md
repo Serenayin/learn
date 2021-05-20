@@ -10,11 +10,9 @@ action of checkout will make a copy of repo in the github workspace directory pa
 2.specify relative path in "folder" of "JamesIves/github-pages-deploy-action" Build or things like that.
 3.specify target-folder of deployment to meet with the same route of homepage url defined in package.json(react app).(github pages deploy according to file structure)
 
-##Webhooks
-###smee
+## Webhooks
+### smee
 $ smee -u https://smee.io/wSIFtllnAJ1nToM7 --path /events
+
 Forwarding https://smee.io/wSIFtllnAJ1nToM7 to http://127.0.0.1:3000/events
-
-858ff473515749ffc5cd7fc18e5e34c937d8449c
-
 
