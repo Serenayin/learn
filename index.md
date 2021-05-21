@@ -11,6 +11,9 @@ action of checkout will make a copy of repo in the github workspace directory pa
 3.specify target-folder of deployment to meet with the same route of homepage url defined in package.json(react app).(github pages deploy according to file structure)
 
 ## Webhooks
+
+
+## APP
 ### smee
 $ smee -u https://smee.io/wSIFtllnAJ1nToM7 --path /events
 
@@ -18,3 +21,8 @@ Forwarding https://smee.io/wSIFtllnAJ1nToM7 to http://127.0.0.1:3000/events
 
 ### bundler
 check BUNDLED_WITH version in Gemfile.lock, otherwise Error may raise because of version mismatch.
+
+### authenticating
+#### app
+#### installation
+#### HTTP-based Git access
