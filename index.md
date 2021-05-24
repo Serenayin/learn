@@ -22,6 +22,8 @@ Forwarding https://smee.io/wSIFtllnAJ1nToM7 to http://127.0.0.1:3000/events
 ### bundler
 check BUNDLED_WITH version in Gemfile.lock, otherwise Error may raise because of version mismatch.
 
+run server:bundle exec ruby template_server.rb
+
 ### authenticating
 #### app
 #### installation
